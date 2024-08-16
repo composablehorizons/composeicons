@@ -14,9 +14,15 @@
 
 ## Basic Usage
 
-Find the icon you need from ComposeIcons.com and click on the [Copy Kt] button. It will add the Jetpack Compose Image Vector to your clipboard.
+### For Designers
 
-Then paste the vector into your project and use it.
+Head over to [composeicons.com](https://composeicons.com), find an icon you need an click on
+the `Copy SVG` button. Then go to any design tool of your choice such as Figma and paste the icon (`⌘ + V`) in your project.
+
+### For Developers
+
+Head over to [composeicons.com](https://composeicons.com), find the icon you need and click the `Copy Kt` button. 
+It will add the Jetpack Compose Image Vector to your clipboard. Then paste the vector into your project and use it.
 
 Use it in your project using the `Image()` composable:
 
@@ -36,7 +42,8 @@ Icon(Check, contentDescription = null, tint = Color.Blue)
 
 ## License
 
-Each icon has a license of the respective icon library. To view each license, find the icon library at [ComposeIcons.com](https://composeicons.com)
+Each icon has a license of the respective icon library. To view each license, find the icon library
+at [ComposeIcons.com](https://composeicons.com)
 
 ## Contributing
 
