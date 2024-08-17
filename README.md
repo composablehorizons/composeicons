@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  We've converted the Internet's most popular icon libraries to Jetpack Compose Image Vectors, so you'll never run out of icons to use in your Compose apps.
+  We have converted the Internet's most popular icon libraries to Jetpack Compose Image Vectors, so you'll never run out of icons to use in your Compose apps.
 <p>
 
 <p align="center">
