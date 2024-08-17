@@ -6,7 +6,7 @@ A Jetpack Compose icon library with all available Lucide icons.
 
 ```kotlin
 dependencies {
-    import("com.composables:icons-lucide:1.0.0")
+    implementation("com.composables:icons-lucide:1.0.0")
 }
 ```
 
