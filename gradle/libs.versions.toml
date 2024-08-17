@@ -1,0 +1,15 @@
+[versions]
+kotlin = "2.0.0"
+compose = "1.6.11"
+agp = "8.2.0"
+composetheme = "1.2.0-alpha"
+
+[libraries]
+composetheme = { module = "com.composables:composetheme", version.ref = "composetheme" }
+
+
+[plugins]
+compose = { id = "org.jetbrains.compose", version.ref = "compose" }
+multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
+compose-compiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
+android-application = { id = "com.android.application", version.ref = "agp" }

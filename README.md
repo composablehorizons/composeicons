@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  We have converted the Internet's most popular icon libraries to Jetpack Compose Image Vectors, so you'll never run out of icons to use in your Compose apps.
+  We've converted the Internet's most popular icon libraries to Jetpack Compose Image Vectors, so you'll never run out of icons to use in your Compose apps.
 <p>
 
 <p align="center">
@@ -39,6 +39,14 @@ import Check // your new icon
 
 Icon(Check, contentDescription = null, tint = Color.Blue)
 ```
+
+## Icon Libraries
+
+Instead of adding individual icons to your project, you can add an all icons in a library instead. 
+
+To add them to your project, visit the respective icon library section: 
+
+- [Lucide Compose](icons-lucide/)
 
 ## License
 
