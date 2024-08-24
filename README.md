@@ -55,4 +55,4 @@ at [ComposeIcons.com](https://composeicons.com)
 
 ## Contributing
 
-We are currently accepting contributions in the form of bug reports and feature requests, in the form of Github issues.
+We are currently accepting contributions in the form of bug reports and feature & icons requests, in the form of Github issues.
